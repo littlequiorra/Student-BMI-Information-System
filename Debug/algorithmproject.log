@@ -1,0 +1,6 @@
+﻿  algorithmproject.cpp
+C:\Users\Atiqa Idayu\OneDrive\Desktop\DEGREE\SEM 3\Analysis Algorithm\algorithmproject\algorithmproject.cpp(59,14): warning C4309: 'initializing': truncation of constant value
+C:\Users\Atiqa Idayu\OneDrive\Desktop\DEGREE\SEM 3\Analysis Algorithm\algorithmproject\algorithmproject.cpp(59,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\Atiqa Idayu\OneDrive\Desktop\DEGREE\SEM 3\Analysis Algorithm\algorithmproject\algorithmproject.cpp(273,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Atiqa Idayu\OneDrive\Desktop\DEGREE\SEM 3\Analysis Algorithm\algorithmproject\algorithmproject.cpp(213): warning C4715: 'mergeSort': not all control paths return a value
+  algorithmproject.vcxproj -> C:\Users\Atiqa Idayu\OneDrive\Desktop\DEGREE\SEM 3\Analysis Algorithm\algorithmproject\Debug\algorithmproject.exe
